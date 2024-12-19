@@ -1,0 +1,7 @@
+print("WELCOME TO FULL NAME GENERATOR")
+first=input("YOUR FIRST NAME:")
+print(first)
+middle=input("YOUR MIDDLE NAME:")
+print(middle)
+last=input("YOUR LAST NAME :")
+print("YOUR FULL NAME IS :"+first+" "+middle+" "+last)
